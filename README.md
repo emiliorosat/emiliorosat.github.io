@@ -4,7 +4,8 @@ author: @emiliort
 ---
 
 
-# Hi! I'm Emilio Rosa, Full Stack Web Developer
+# Hi! I'm Emilio Rosa, 
+# Full Stack Web Developer
 
 
 ## About Me
