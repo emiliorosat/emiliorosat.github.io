@@ -1,5 +1,6 @@
 ---
 title: Emilio Rosa
+author: @emiliort
 ---
 
 
@@ -23,9 +24,9 @@ Since 2018, I started in the world of software through web development starting 
 
 Send me a direct message through my social networks
 
-[Twitter][twitter]
-[LinkedIn][linkedin]
+[Twitter]
+[LinkedIn]
 
 
-[twitter] = https://twitter.com/emiliort
-[linkedin] = https://www.linkedin.com/in/emiliorosat/
+[Twitter]: https://twitter.com/emiliort
+[LinkedIn]: https://www.linkedin.com/in/emiliorosat/
