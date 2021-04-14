@@ -4,7 +4,7 @@ author: @emiliort
 ---
 
 
-# Hi! I'm Emilio Rosa, full stack web developer
+# Hi! I'm Emilio Rosa, Full Stack Web Developer
 
 
 ## About Me
@@ -25,6 +25,7 @@ Since 2018, I started in the world of software through web development starting 
 Send me a direct message through my social networks
 
 [Twitter]
+
 [LinkedIn]
 
 
