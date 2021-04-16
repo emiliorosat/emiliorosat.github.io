@@ -1,5 +1,2 @@
 theme: jekyll-theme-cayman
-paginate: 5
 baseurl: /
-plugins:
-  - jekyll-paginate
