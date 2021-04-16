@@ -1,6 +1,5 @@
 ---
 title: Emilio Rosa
-author: @emiliort
 ---
 
 
