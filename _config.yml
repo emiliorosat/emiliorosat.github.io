@@ -1,2 +1,5 @@
 theme: jekyll-theme-midnight
+paginate: 5
 baseurl: /
+plugins:
+  - jekyll-paginate
