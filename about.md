@@ -1,6 +1,8 @@
 ---
 layout: default
-titla: About
+title: About
 ---
 
 # About Me
+
+sobre mi
