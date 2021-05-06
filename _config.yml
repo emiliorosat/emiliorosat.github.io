@@ -1,2 +1,21 @@
+title: Emilio Rosa
+
 theme: jekyll-theme-cayman
 baseurl: /
+
+paginate: 4
+permalink: /blog/:year/:title/
+paginate_path: /blog/page:num/
+
+
+include:
+  - _pages
+  
+exclude:
+  - README.md
+  
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-email-protect
+  - jekyll-target-blank
