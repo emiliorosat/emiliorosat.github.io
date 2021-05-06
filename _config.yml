@@ -1,5 +1,6 @@
 title: Emilio Rosa
 
+theme: jekyll-theme-midnight
 
 baseurl: /
 
@@ -23,4 +24,3 @@ plugins:
   - jekyll-email-protect
   - jekyll-target-blank
 
-theme: jekyll-theme-midnight
