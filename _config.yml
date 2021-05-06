@@ -22,3 +22,5 @@ plugins:
   - jekyll-paginate
   - jekyll-email-protect
   - jekyll-target-blank
+
+theme: jekyll-theme-midnight
