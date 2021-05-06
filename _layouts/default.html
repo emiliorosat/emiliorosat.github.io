@@ -13,9 +13,9 @@
         <h3 class="post-description">{{site.description}}</h3>
 <!--
         {% include navigation.html %}
--->
+
         {% seo %}
-<!--
+
         {% include favicon.html %}
 -->
         <!-- Load fontawesome here for faster loadtimes: https://stackoverflow.com/a/35880730/9523246 -->
@@ -32,9 +32,7 @@
 
         <footer>
           <p class="copy">
-            <small> &copy; {{site.title}} {{ site.time | date: '%Y' }}
-                    | Powered by Jekyll and
-                    <a target="_blank" href="https://github.com/jitinnair1/gradfolio/">Gradfolio</a>.
+            <small> &copy; {{site.title}} {{ site.time | date: '%Y' }}.
                     Last updated on {{ site.time | date_to_long_string }}
             </small>
           </p>
