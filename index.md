@@ -1,5 +1,6 @@
 ---
 title: Emilio Rosa
+layout: default
 ---
 
 
