@@ -4,10 +4,9 @@ title: Home
 ---
 
 <div class="w-100 text-center mt-5 mb-5">
-  
 Hello! 👋<br/>
-I'm Emilio Rosa, 
+I'm Emilio Rosa
 <br/>
-Full Stack Web Developer
-
+FullStack Web Developer
 </div>
+
