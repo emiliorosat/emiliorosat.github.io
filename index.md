@@ -1,6 +1,6 @@
 ---
 title: Emilio Rosa
-layout: default
+layout: article
 ---
 
 Hello! 👋
