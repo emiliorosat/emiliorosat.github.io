@@ -1,7 +1,7 @@
 ---
 title: Emilio Rosa
 layout: home
-name: home
+name: Home
 ---
 
 <div class="w-100 text-center mt-5 mb-5">
