@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-name: about
+name: About
 ---
 
 # About Me
