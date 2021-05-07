@@ -1,6 +1,6 @@
 ---
 title: Emilio Rosa
-layout: article
+layout: home
 ---
 
 Hello! 👋
