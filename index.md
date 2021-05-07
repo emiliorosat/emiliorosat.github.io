@@ -3,7 +3,7 @@ title: Emilio Rosa
 layout: default
 ---
 
-Hello! 😎
+Hello! 👋
 
 I'm Emilio Rosa, 
 
