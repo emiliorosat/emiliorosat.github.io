@@ -16,10 +16,12 @@ I was a supervisor and coordinator for more than 5 years in the telecommunicatio
 
 Since 2018, I started in the world of software through web development starting with Wordpress, until I get all current knowledge self-taught on online platforms such as Platzi and Udemy, additionally I'm studying a technology on software development in an institution important, to further strengthen the knowledge of an industry that simply fell in love.😍
 
-# Knowledges
 
 
-## Languages
+## Knowledges
+
+
+### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
