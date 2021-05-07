@@ -3,6 +3,8 @@ title: Emilio Rosa
 layout: default
 ---
 
-Hi! 
+Hello! 😎
+
 I'm Emilio Rosa, 
+
 Full Stack Web Developer
