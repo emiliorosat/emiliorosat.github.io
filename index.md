@@ -5,10 +5,9 @@ layout: home
 
 <div class="w-100 text-end">
   
-Hello! 👋
-
+Hello! 👋 <br/>
 I'm Emilio Rosa, 
-
+<br/>
 Full Stack Web Developer
 
 </div>
