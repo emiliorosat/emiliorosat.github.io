@@ -6,7 +6,7 @@ title: About
 # About Me
 
 
-Electronic engineer, IT, Web Developer and more skills.
+Electronic engineer and Software Developer.
 
 I studied electronics in high school and then finished electronic engineering in college.
 
