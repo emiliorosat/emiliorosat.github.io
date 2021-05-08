@@ -3,10 +3,10 @@ layout: home
 title: Home
 ---
 
-<div class="w-100 text-center mt-5 mb-5">
+<div class="w-100 fs-1 text-center mt-5 mb-2">
 Hello! 👋<br/>
-I'm Emilio Rosa
-<br/>
-FullStack Web Developer
+I am Emilio Rosa
 </div>
-
+<div class="w-100 text-center mb-5" >
+Full Stack Web Developer
+</div>
