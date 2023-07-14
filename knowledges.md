@@ -17,8 +17,8 @@ title: Knowledges
   
 
 |  Backend     |   Frontend             |   Database       |  Platform    |
-|--------------|------------------------|------------------|--------------|
-| .Net (C#)    |   Vanilla (Javascript) |   SQL Server     |   Azure      |
+|  ----------  | ---------------------- | ---------------- |  ----------  |
+| .Net  (C#)   |   Vanilla (Javascript) |   SQL Server     |   Azure      |
 | NodeJs       |   Angular              |   Oracle         |   Firebase   |
 | Python       |   ReactJs              |   PostgresSql    |   Github     |
   

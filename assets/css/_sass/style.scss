@@ -170,3 +170,9 @@ blockquote {
 
 .scroll::-webkit-scrollbar {
   display: none; }
+
+td, th {
+  border: 1px solid rgba(3,3,3,.7);
+  padding: 3px;
+}
+
