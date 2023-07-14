@@ -3,9 +3,8 @@ layout: about
 title: Knowledges
 ---
 
-## Knowledges
-<hr/>
-
+## Knowledges  
+  
 ### Current Stack
 - Backend    < .Net >
 - Frontend   < Angular >
