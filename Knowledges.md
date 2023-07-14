@@ -16,7 +16,7 @@ title: Knowledges
 ### Dev's Technologies 
 
 
-|__Backend__ |__Frontend__            |__Database__    |__Platform__      |
+| **Backend** | **Frontend**          | **Database**   | **Platform**     |
 |---         |---                     |---             |---               |
 | .Net (C#)  | Vanilla (Javascript)   | SQL Server     | Azure            |
 | NodeJs     | Angular                | Oracle         | Firebase         |
