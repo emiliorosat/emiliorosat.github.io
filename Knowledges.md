@@ -3,9 +3,9 @@ layout: about
 title: Knowledges
 ---
 
-## Knowledges  
+# Knowledges  
   
-### Current Stack Dev's Technologies
+## Current Stack Dev's Technologies
   
 - Backend    => .Net
 - Frontend   => Angular
@@ -13,7 +13,7 @@ title: Knowledges
 - Platform   => AZURE
 
 
-### Dev's Technologies 
+## Dev's Technologies 
 
 
 | **Backend** | **Frontend**          | **Database**   | **Platform**     |
