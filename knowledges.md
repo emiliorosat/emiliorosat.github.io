@@ -16,8 +16,8 @@ title: Knowledges
 ## Dev's Technologies 
 
 
-| **Backend** | **Frontend**          | **Database**   | **Platform**     |
-|---         |---                     |---             |---               |
+| : Backend  | : Frontend**           | : Database     | : Platform       |
+| :--------- | :--------------------  | :------------  | :------------    |
 | .Net (C#)  | Vanilla (Javascript)   | SQL Server     | Azure            |
 | NodeJs     | Angular                | Oracle         | Firebase         |
 | Python     | ReactJs                | PostgresSql    | Github           |
