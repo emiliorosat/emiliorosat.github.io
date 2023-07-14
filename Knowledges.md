@@ -5,7 +5,7 @@ title: Knowledges
 
 ## Knowledges  
   
-### **Current Stack Dev's Technologies**{: style="color: red;"}
+### Current Stack Dev's Technologies
   
 - Backend    => .Net
 - Frontend   => Angular
