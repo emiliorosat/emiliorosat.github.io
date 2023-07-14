@@ -13,7 +13,7 @@ title: Knowledges
 - Platform   => AZURE
 
 
-### Tecnologies
+### Web Tecnologies 
 
 
 | Backend      | Frontend               | Database       | Platform         |
