@@ -7,11 +7,12 @@ title: Knowledges
 <hr/>
 
 ### Current Stack
-- Backend  < C# .Net >
-- Frontend < Angular >
-- Database < Oracle >
+- Backend    < .Net >
+- Frontend   < Angular >
+- Database   < Oracle >
+- Platform   < AZURE >
 
-
+<!--
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
@@ -39,7 +40,7 @@ title: Knowledges
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-
+-->
 <!--
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
