@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: knowledges
 title: Knowledges
 ---
 
