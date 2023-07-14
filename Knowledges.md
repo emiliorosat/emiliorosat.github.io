@@ -5,7 +5,7 @@ title: Knowledges
 
 ## Knowledges  
   
-### Current Stack Technology
+### Current Stack Dev's Technologies
 
 - Backend    => .Net
 - Frontend   => Angular
@@ -13,7 +13,7 @@ title: Knowledges
 - Platform   => AZURE
 
 
-### Web Technologies 
+### Dev's Technologies 
 
 
 | Backend    | Frontend               | Database       | Platform         |
@@ -22,6 +22,7 @@ title: Knowledges
 | NodeJs     | Angular                | Oracle         | Firebase         |
 | Python     | ReactJs                | PostgresSql    | Github           |
 
+  
 ### Operating Systems  
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
