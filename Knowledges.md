@@ -5,7 +5,7 @@ title: Knowledges
 
 ## Knowledges  
   
-### $${\color{red} **Current Stack Dev's Technologies** }$$
+### **Current Stack Dev's Technologies**{: style="color: red;"}
   
 - Backend    => .Net
 - Frontend   => Angular
