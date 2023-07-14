@@ -15,26 +15,13 @@ title: Knowledges
 
 ### Tecnologies
 
----
-- Backend
-  - .Net (C#)
-  - NodeJs
-  - Python
 
-- Frontend
-  - Vanilla (Javascript)
-  - Angular
-  - ReactJs
- 
-- Database
-  - SQL Server
-  - Oracle
-  - PostgresSql
+| Backend      | Frontend               | Database       | Platform         |
+|---           |---                     |---             |---               |
+| - .Net (C#)  | Vanilla (Javascript)   | SQL Server     | Azure            |
+| - NodeJs     | Angular                | Oracle         | Firebase         |
+| - Python     | ReactJs                | PostgresSql
 
-- Platform
-  - Azure
-  - Firebase
----
 
 <!--
 ### Languages
