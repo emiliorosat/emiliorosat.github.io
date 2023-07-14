@@ -6,11 +6,34 @@ title: Knowledges
 ## Knowledges  
   
 ### Current Stack
-- Backend    < .Net >
-- Frontend   < Angular >
-- Database   < Oracle >
-- Platform   < AZURE >
 
+- Backend    => .Net
+- Frontend   => Angular
+- Database   => Oracle
+- Platform   => AZURE
+
+
+### Tecnologies
+
+- Backend
+  - .Net (C#)
+  - NodeJs
+  - Python
+
+- Frontend
+  - Vanilla (Javascript)
+  - Angular
+  - ReactJs
+ 
+- Database
+  - SQL Server
+  - Oracle
+  - PostgresSql
+
+- Platform
+  - Azure
+  - Firebase
+    
 <!--
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
