@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fundamentos de bases de datos
-date: 2019-10-05
+date: 2019-10-20
 category: DataBases
 ---
 
