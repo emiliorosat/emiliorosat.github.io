@@ -6,7 +6,8 @@ markdown: GFM
 baseurl: /
 
 paginate: 4
-permalink: /blog/:year/:title/
+#permalink: /blog/:year/:title/
+permalink: /blog/:category/:title/
 paginate_path: /blog/page:num/
 
 sass:
