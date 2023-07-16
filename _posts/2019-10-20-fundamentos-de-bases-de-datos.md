@@ -5,12 +5,11 @@ date: 2019-10-20
 category: DataBases
 ---
 
+En el mundo del desarrollo de software no solo tenemos la necesidad de ingresar, recibir y manipular información, también nos vemos en la necesidad de almacenar información; ya sea pre-procesada o almacenada íntegramente para su posterior uso.  
+En este post vamos a conocer los conceptos básicos de las bases de datos que todos debemos tener muy claros.  
+Existen dos grandes grupos de bases de datos: las relacionales y las no relacionales o NoSQL, y dentro de estas hay varios tipos, pero ahora nos centraremos en los generales de las bases de datos y más enfocados en las relacionales.  
 
 ![](https://cdn.emiliort.com/blog/images/25092018-GestBd_7.png)  
-
-En el mundo del desarrollo de software no solo tenemos la necesidad de ingresar, recibir y manipular información, también nos vemos en la necesidad de almacenar información; ya sea pre-procesada o almacenada íntegramente para su posterior uso.
-En este post vamos a conocer los conceptos básicos de las bases de datos que todos debemos tener muy claros.
-Existen dos grandes grupos de bases de datos: las relacionales y las no relacionales o NoSQL, y dentro de estas hay varios tipos, pero ahora nos centraremos en los generales de las bases de datos y más enfocados en las relacionales.  
 
 ## ¿Que es una base de datos?  
 
