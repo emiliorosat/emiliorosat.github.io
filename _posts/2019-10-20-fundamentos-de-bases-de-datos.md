@@ -156,7 +156,7 @@ Si el sistema proporciona una interfaz de bajo nivel de registro, aparte de una 
 
 ## Algunos Ejemplos de base de datos relacionales
 
-
+| | |
 |---|---|
 |![](https://cdn.emiliort.com/blog/images/sqlite370_banner.gif) |SQLite es un sistema de gestión de bases de datos relacional compatible con ACID, contenida en una relativamente pequeña (~275 kiB)​ biblioteca escrita en C.  Esta en síntesis es un gestor de base de datos local que no cuenta con un servidor para su uso en red.|  
 | | | 
