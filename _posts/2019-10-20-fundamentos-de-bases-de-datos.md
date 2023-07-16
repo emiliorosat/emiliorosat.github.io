@@ -156,11 +156,12 @@ Si el sistema proporciona una interfaz de bajo nivel de registro, aparte de una 
 
 ## Algunos Ejemplos de base de datos relacionales
 
-![](https://cdn.emiliort.com/blog/images/sqlite370_banner.gif) SQLite es un sistema de gestión de bases de datos relacional compatible con ACID, contenida en una relativamente pequeña (~275 kiB)​ biblioteca escrita en C.  Esta en síntesis es un gestor de base de datos local que no cuenta con un servidor para su uso en red.  
+|---|---|
+|![](https://cdn.emiliort.com/blog/images/sqlite370_banner.gif) |SQLite es un sistema de gestión de bases de datos relacional compatible con ACID, contenida en una relativamente pequeña (~275 kiB)​ biblioteca escrita en C.  Esta en síntesis es un gestor de base de datos local que no cuenta con un servidor para su uso en red.|  
  
-![](https://cdn.emiliort.com/blog/images/mysqlimga.png) MySql es un sistema de gestión de bases de datos relacional desarrollado bajo licencia dual: Licencia pública general/Licencia comercial por Oracle Corporation y está considerada como la base de datos de código abierto más popular del mundo.  
+|![](https://cdn.emiliort.com/blog/images/mysqlimga.png) |MySql es un sistema de gestión de bases de datos relacional desarrollado bajo licencia dual: Licencia pública general/Licencia comercial por Oracle Corporation y está considerada como la base de datos de código abierto más popular del mundo.|  
 
-![](https://cdn.emiliort.com/blog/images/postgresqlicond.png) PostgreSQL es un sistema de gestión de bases de datos relacional orientado a objetos y de código abierto, publicado bajo la licencia PostgreSQL,​ similar a la BSD o la MIT.  
+|![](https://cdn.emiliort.com/blog/images/postgresqlicond.png) |PostgreSQL es un sistema de gestión de bases de datos relacional orientado a objetos y de código abierto, publicado bajo la licencia PostgreSQL,​ similar a la BSD o la MIT.|  
 
   
 ### Importancia de aprender sobre base de datos
