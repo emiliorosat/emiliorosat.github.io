@@ -20,6 +20,7 @@ include:
 exclude:
   - README.md
   - CNAME
+  - knowledges.md
   
 plugins:
   - jekyll-seo-tag
