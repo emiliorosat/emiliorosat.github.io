@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Hello
 ---
 
 <div class="h-100 d-flex align-items-center" >
