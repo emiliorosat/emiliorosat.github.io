@@ -3,7 +3,7 @@ layout: home
 title: Hello
 ---
 
-<div class="w-100 h-100 d-flex align-items-center justify-content-center" >
+<div class="w-100 d-flex align-items-center justify-content-center minHeight60" >
 <div>
 <div class="w-100 fs-1 text-center mt-5 mb-2">
 Hello there! 👋
