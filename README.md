@@ -15,3 +15,17 @@
 - css 3
 - markdown
 
+
+
+## Jekyll Local
+
+- install ruby
+- exec next code in terminal
+
+```bash
+gem install bundler jekyll # add gem jekyll
+
+bundle add webrick # add dependency 
+
+bundle exec jekyll serve #start jekyll serve on port
+```

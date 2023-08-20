@@ -1,18 +1,24 @@
 title: Emilio Rosa
 
-theme: jekyll-theme-midnight
-markdown: GFM
+twitter_username: Emiliort
+github_username:  EmilioRosat
+
+#theme: jekyll-theme-midnight
+#theme: minima
+#markdown: GFM
 
 baseurl: /
 
-paginate: 4
-permalink: /blog/:year/:title/
+#paginate: 4
+#permalink: /blog/:year/:title/
 #permalink: /blog/:category/:title/
-paginate_path: /blog/page:num/
+#paginate_path: /blog/page:num/
 
-sass:
-  sass_dir: /assets/css/_sass
-  style: compressed
+
+
+#sass:
+#  sass_dir: /assets/css/_sass
+#  style: compressed
   
 include:
   - _pages
@@ -21,10 +27,26 @@ exclude:
   - README.md
   - CNAME
   - knowledges.md
-  
+  - _posts
+  - blog
+  - about.md
+  - /assets/css/main.scss
+
 plugins:
   - jekyll-seo-tag
-  - jekyll-paginate
+  #- jekyll-paginate
   - jekyll-email-protect
   - jekyll-target-blank
+  - jekyll-feed
 
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
