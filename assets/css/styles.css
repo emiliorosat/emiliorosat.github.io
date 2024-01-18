@@ -80,15 +80,16 @@ header {
     position: sticky;
     top: 0px;
     display: flex;
-    background-color: rgba(0, 0, 0, .3);
+    background-color: rgba(2, 2, 2);
 }
 
 nav {
     padding: 12px 24px;
     /*border: 1px solid white; */
-    width: 600px;
-    margin: 0 auto;
+   /* width: 600px; */
+    /*margin: 0 auto; */
     font-weight: 540;
+    font-size: .9em;
 }
 
 .menu {
