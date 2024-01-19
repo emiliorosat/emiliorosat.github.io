@@ -82,6 +82,7 @@ header {
     display: flex;
     background-color: rgba(2, 2, 2);
     z-index: 10;
+    justify-content: end;
 }
 
 nav {
