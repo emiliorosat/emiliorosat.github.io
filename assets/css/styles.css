@@ -151,6 +151,7 @@ footer {
 .fit-section {
     padding: 6rem;
     height: auto !important;
+    margin: auto !important;
 }
 
 
