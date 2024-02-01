@@ -28,3 +28,14 @@ menuLinks.forEach( (link)=>{
         htmlObserver.observe(element)
     }
 })
+
+
+window.onscroll = function (){
+    var scroll = document.documentElement.scrollTop || document.body.scrollTop
+
+    if(scroll > 10){
+       
+    }else{
+        
+    }
+}
