@@ -28,3 +28,36 @@ menuLinks.forEach( (link)=>{
         htmlObserver.observe(element)
     }
 })
+
+
+window.onscroll = function (){
+    var scroll = document.documentElement.scrollTop || document.body.scrollTop
+
+    if(scroll > 10){
+       addFitSectionClass()
+    }else{
+        removeFitSectionClass()
+    }
+}
+
+
+
+
+
+
+
+function addFitSectionClass()
+{
+    document.querySelectorAll("section")
+        .forEach( function(e){
+            e.classList.add("fit-section")
+        })
+}
+
+function removeFitSectionClass()
+{
+    document.querySelectorAll("section")
+        .forEach( function(e){
+            e.classList.remove("fit-section")
+        })
+}
