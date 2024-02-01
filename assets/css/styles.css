@@ -122,7 +122,6 @@ section {
 
 #hello {
     margin-top: -100px;
-    min-height: 100vmin;
 }
 
 .flex-center {
@@ -149,5 +148,9 @@ footer {
     margin-top: -60px;
 }
 
+.fit-section {
+    padding: 6rem;
+    height: auto !important;
+}
 
 
