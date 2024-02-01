@@ -31,8 +31,8 @@ menuLinks.forEach( (link)=>{
 
 
 window.onscroll = function (){
-    var scroll = document.documentElement.scrollTop || document.body.scrollTop
-
+    const scroll = document.documentElement.scrollTop || document.body.scrollTop
+    console.log("scroll =>",scroll)
     if(scroll > 10){
        addFitSectionClass()
     }else{
