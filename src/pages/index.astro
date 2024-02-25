@@ -1,0 +1,67 @@
+---
+import Layout from '../layouts/Layout.astro';
+import SocialIconsLinks from "../components/SocialIconsLinks.astro"
+import SectionBlock from "../components/SectionBlock.astro"
+---
+
+<Layout title='Welcome to Emilio Rosa'>
+    <main>
+        <!-- <p class="mt-6">
+            <img class="object-none h-48 w-96" src="https://0.gravatar.com/avatar/9040c27ab8d207e3cb5548a8a1024f59dd2d5b5d95cf4122aeab5f74d84199fd?s=400&d=mm" alt="">
+        </p> -->
+        <SectionBlock title='Emilio Rosa' id='hello' headline={1}>
+            <p class="fs-m" >Software Engineer | Electronic engineer</p>
+            <p class="mt-1m fsi">Experienced Software Engineer specializing in front-end and back-end development</p>
+            <p><SocialIconsLinks className='mr'></SocialIconsLinks></p>
+        </SectionBlock>
+        <SectionBlock title='About Me' id='About-Me'>
+            <p>
+                I'm a dedicated Software Engineer based in Santo Domingo with 5 years of hands-on experience in the software industry. 
+                My passion lies in crafting intuitive user interfaces and robust back-end systems to deliver exceptional digital experiences.
+            </p>
+        </SectionBlock>
+        
+        <SectionBlock title='Experience' id='Experience'>
+            <p>
+                As a Software Engineer, I've successfully:
+            </p>
+            <ul class="mt-1 list-[square]">
+                <li><p>Developed responsive front-end interfaces using Angular and React.</p></li>
+                <li><p>Implemented efficient back-end solutions with C#, Node.js, and Python.</p></li>
+                <li><p>Collaborated closely with cross-functional teams to deliver high-quality software solutions within Agile environments.</p></li>
+            </ul>
+        </SectionBlock>
+
+        <SectionBlock title='Skills' id='Skills'>
+            <ul class="mt-1 list-[square]">
+                <li><p><b>Front-end Development:</b> Angular, React</p></li>
+                <li><p><b>Back-end Development:</b> C#, Node.js, Python</p></li>
+                <li><p><b>Full Stack Development</b></p></li>
+                <li><p><b>Agile Methodologies</b></p></li>
+                <li><p><b>Problem Solving</b></p></li>
+                <li><p><b>Team Collaboration</b></p></li>
+            </ul>
+        </SectionBlock>
+
+        <SectionBlock title='Education' id='Education'>
+            <ul class="mt-1 list-[square]">
+                <li><p>Bachelor's Degree in Software Technologist, ITLA, Santo Domingo</p></li>
+                <li><p>Bachelor's Degree in Electronic Engineer, O&M, Santo Domingo</p></li>
+            </ul>
+        </SectionBlock>
+
+        <!-- <SectionBlock title='Certifications' id='Certifications'>
+            <ul class="mt-1 list-[square]">
+            </ul>
+        </SectionBlock> -->
+        
+        <SectionBlock title='Languages' id='Languages' >
+            <p>Fluent in Spanish and English</p>
+        </SectionBlock>
+        
+        <SectionBlock title='Contact' id='Contact'>
+            <p>Ready to elevate your development projects? Let's connect!</p>
+            <p><SocialIconsLinks className='mr'></SocialIconsLinks></p>
+        </SectionBlock>
+    </main>
+</Layout>

@@ -1,0 +1,25 @@
+---
+interface Props {
+	title: string;
+    id: string;
+    headline?: number
+}
+
+const { id, title, headline = 2 } = Astro.props;
+---
+
+<section id={id}>
+    <div class="flex-center mt-1">
+        <article>
+            {
+                headline == 1 ? (
+                <h1 class="h1L">{title}</h1>
+                ) : (
+                    <h2 class="h2">{title}</h2>
+                )
+            }
+            
+            <slot/>
+        </article>
+    </div>
+</section>
